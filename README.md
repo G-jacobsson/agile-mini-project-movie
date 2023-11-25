@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/o9lyYrqo)
+#### Agile, group project management in the developer blockchain program @ Medieinstitutet
+- Work in a group of three to create a mini project of our choosing, managing and solving potential conflicts
